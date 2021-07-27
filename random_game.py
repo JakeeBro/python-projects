@@ -7,7 +7,7 @@ end = int(sys.argv[2])
 if start < end:
     answer = randint(start, end)
 else:
-    print("Please Restart and Enter a Valid Number Range")
+    print("Please Enter a Valid Number Range")
     sys.exit()
 
 
