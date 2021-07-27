@@ -39,7 +39,7 @@ class HybridBorg(Wizard, Archer):
 
 wizard1 = Wizard('Merlin', 60, 'merlin@gmail.com')
 archer1 = Archer('Robin', 30, 'robin@gmail.com')
-hb1 = HybridBorg('Bitch', 45, 50, 'borgie@gmail.com')
+hb1 = HybridBorg('Borg', 45, 50, 'borgie@gmail.com')
 
 
 # def player_attack(character):
